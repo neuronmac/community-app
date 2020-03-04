@@ -82,7 +82,7 @@ If you want to connect to the API running elsewhere, then append the baseApiUrl 
 
 e.g. http://localhost:9002/?baseApiUrl=https://localhost:8443&tenantIdentifier=default
 
-e.g. http://localhost:9002/?baseApiUrl=https://demo.openmf.org&tenantIdentifier=default
+e.g. http://localhost:9002/?baseApiUrl=https://demo.mifos.io&tenantIdentifier=default
 
 ## Adding dependencies
 
